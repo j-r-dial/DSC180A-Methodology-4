@@ -1,5 +1,6 @@
-Julia Dial
-Email: jrdial@ucsd.edu
+# Julia Dial
+
+**Email:** [jrdial@ucsd.edu](mailto:jrdial@ucsd.edu)
 
 Section: D23
 Mentor: Lily Weng
