@@ -2,8 +2,9 @@
 
 **Email:** [jrdial@ucsd.edu](mailto:jrdial@ucsd.edu)
 
-Section: D23
-Mentor: Lily Weng
+**Section:** D23
+
+**Mentor:** Lily Weng
 
 **What is the most interesting topic covered in your domain this quarter?**
 The most interesting topic I have covered in my domain so far is the different failure types in a Retrieval-Augmented Generation (RAG) system. I had never learned about 
